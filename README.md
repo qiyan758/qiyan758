@@ -7,8 +7,9 @@
 
 <!-- GIF 动画展示 -->
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhmeXhvcW10ZGxpcjdzczUxdDlndGU1MmpydWtwbjJzN3M5eThqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="600" height="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J1bzF2bXVxbXc3NHR6YnBkbjh3d2VhZ2VrczAzY25vczJ2ZGthdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10SvWCbt1ytWCc/giphy.gif" width="600" height="250" />
 </div>
+
 
 ---
 
