@@ -1,21 +1,16 @@
 <div align="center">
-  <!-- 8-bit风格动态文字 -->
+  <!-- 平滑渐变动画文字 -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=1500&color=00FF00&center=true&vCenter=true&width=600&lines=PLAYER_1:+qiyan758;LEVEL_LOADING...;PRESS_START" alt="8-bit Typing Effect" />
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=500&color=5865F2&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+qiyan758;Welcome+to+my+space" alt="Typing SVG" />
+    </a>
   </h1>
   
-  <!-- 像素游戏角色动画 -->
-  <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="300" />
+  <!-- 彩色流动线条动画 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%" />
   
-  <!-- 复古游戏UI元素 -->
-  <img src="https://img.shields.io/badge/SCORE-★★★★★-brightgreen?style=plastic&logo=gamejolt" /> 
-  <img src="https://img.shields.io/badge/LIVES-❤️❤️❤️-red?style=plastic" />
-  <img src="https://img.shields.io/badge/COINS-🟡🟡🟡🟡-yellow?style=plastic" />
-</div>
-
-<!-- 像素风格分割线 -->
-<div align="center">
-  <img src="https://i.imgur.com/p1TaHgL.png" width="600" />
+  <!-- 简约3D图标 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png" width="120px" />
 </div>
 
 
