@@ -1,11 +1,4 @@
 <div align="center">
-  <!-- 平滑渐变动画文字 -->
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=500&color=5865F2&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+qiyan758;Welcome+to+my+space" alt="Typing SVG" />
-    </a>
-  </h1>
-  
   <!-- 彩色流动线条动画 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%" />
   
