@@ -1,19 +1,21 @@
 <div align="center">
-    <!-- 动态AI风格打字效果 -->
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2800&color=00F0FF&center=true&vCenter=true&width=580&lines=SYSTEM_INITIALIZING...;LOADING_AI_PROFILE...;HELLO_WORLD+我是qiyan758;WELCOME_TO_MY_AI_DOMAIN!" alt="AI Typing Effect" />
-    </h1>
+  <!-- 8-bit风格动态文字 -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=1500&color=00FF00&center=true&vCenter=true&width=600&lines=PLAYER_1:+qiyan758;LEVEL_LOADING...;PRESS_START" alt="8-bit Typing Effect" />
+  </h1>
+  
+  <!-- 像素游戏角色动画 -->
+  <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="300" />
+  
+  <!-- 复古游戏UI元素 -->
+  <img src="https://img.shields.io/badge/SCORE-★★★★★-brightgreen?style=plastic&logo=gamejolt" /> 
+  <img src="https://img.shields.io/badge/LIVES-❤️❤️❤️-red?style=plastic" />
+  <img src="https://img.shields.io/badge/COINS-🟡🟡🟡🟡-yellow?style=plastic" />
 </div>
 
-<!-- AI风格全息投影动画 -->
+<!-- 像素风格分割线 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJjY2Z0Y2R5d3FjZ3R4Z2V6ZGNiY3VqY2ZxbmN6Z2ZqZzZ1bmh1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6WywYZ9KX2nq2c/giphy.gif" width="600" height="300" />
-</div>
-
-<!-- 添加AI状态指示灯 -->
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_SYSTEM-ONLINE-00FF9D?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NEURAL_NETWORK-ACTIVE-8A2BE2?style=for-the-badge" />
+  <img src="https://i.imgur.com/p1TaHgL.png" width="600" />
 </div>
 
 
